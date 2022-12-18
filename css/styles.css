@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    color: #212121;
 }
 .link-studio {
     text-decoration: none;
@@ -22,4 +23,7 @@ body {
 .site-nav .link:focus,
 .site-nav .link:active {
     color: #2196F3;
+}
+.pointer {
+    cursor: pointer;
 }
