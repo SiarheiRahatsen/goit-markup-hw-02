@@ -6,6 +6,7 @@ body {
     color: #212121;
 }
 .link-studio {
+    text-decoration: none;
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -13,4 +14,7 @@ body {
     line-height: 31px;
     letter-spacing: 0.03em;
     color: #000000;
+}
+.link-studio > span {
+    color: #2196F3;
 }
