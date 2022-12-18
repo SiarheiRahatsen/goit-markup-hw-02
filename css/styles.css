@@ -1,10 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
-.links-nav a {
-    text-decoration: none;
-    color: #212121;
-}
 .link-studio {
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
@@ -16,5 +12,13 @@ body {
     color: #000000;
 }
 .link-studio > span {
+    color: #2196F3;
+}
+.site-nav .link {
+    text-decoration: none;
+    color: #212121;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
     color: #2196F3;
 }
