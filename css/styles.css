@@ -42,6 +42,12 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
 }
+.pointer-port:hover,
+.pointer-port:focus,
+.pointer-port:active {
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
 .title {
     font-weight: 700;
     font-size: 14px;
