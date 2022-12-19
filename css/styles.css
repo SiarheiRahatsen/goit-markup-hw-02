@@ -24,6 +24,21 @@ body {
 }
 .pointer {
     cursor: pointer;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+}
+.pointer-port {
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
 }
 .title {
     font-weight: 700;
@@ -97,5 +112,5 @@ body {
     letter-spacing: 0.03em;
 }
 .text-down > span {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(2, 235, 235, 0.6);
 }
