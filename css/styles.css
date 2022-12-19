@@ -54,3 +54,15 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
 }
+.link-main {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+}
+.link-main:hover,
+.link-main:focus,
+.link-main:active {
+    color: #2196F3;
+}
