@@ -88,3 +88,14 @@ body {
     letter-spacing: 0.02em;
     color: #757575;
 }
+.text-down {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+}
+.text-down > span {
+    color: rgba(255, 255, 255, 0.6);
+}
