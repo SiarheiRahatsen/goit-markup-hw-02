@@ -112,5 +112,18 @@ body {
     letter-spacing: 0.03em;
 }
 .text-down > span {
-    color: rgba(2, 235, 235, 0.6);
+    color: rgba(109, 101, 101, 0.6);
+}
+.main-item-port {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+}
+.main-item-val {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: #757575;
 }
