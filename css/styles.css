@@ -6,7 +6,7 @@ body {
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.2;
     letter-spacing: 0.03em;
     color: #000000;
 }
@@ -26,7 +26,7 @@ body {
     cursor: pointer;
     font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.88;
     display: flex;
     align-items: center;
     text-align: center;
@@ -36,28 +36,28 @@ body {
     cursor: pointer;
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px;
+    line-height: 1.63;
     text-align: center;
     letter-spacing: 0.03em;
 }
 .title {
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .text {
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: #757575;
 }
 .title-main {
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 1.36;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -65,7 +65,7 @@ body {
 .title-item {
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.17;
     text-align: center;
     letter-spacing: 0.03em;
 }
@@ -73,7 +73,7 @@ body {
     text-decoration: none;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
 }
 .link-main:hover,
@@ -84,14 +84,14 @@ body {
 .main-item {
     font-weight: 500;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.19;
     text-align: center;
     letter-spacing: 0.03em;
 }
 .main-item-prof {
     font-weight: 400;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.19;
     text-align: center;
     letter-spacing: 0.03em;
     color: #757575;
@@ -99,7 +99,7 @@ body {
 .text-num {
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: #757575;
 }
@@ -108,7 +108,7 @@ body {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
 }
 .text-down > span {
@@ -117,13 +117,13 @@ body {
 .main-item-port {
     font-weight: 700;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 2;
     letter-spacing: 0.06em;
 }
 .main-item-val {
     font-weight: 400;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.88;
     letter-spacing: 0.03em;
     color: #757575;
 }
